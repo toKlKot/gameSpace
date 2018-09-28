@@ -1,0 +1,29 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\hangarScript.cs">
+    <Files>
+      <File FileName="Assets\Scripts\gameManager.cs" Line="32" Column="3" />
+      <File FileName="Assets\Scripts\moveActor.cs" Line="251" Column="5" />
+      <File FileName="Assets\Scripts\hangarScript.cs" Line="915" Column="3" />
+      <File FileName="Assets\Scripts\leftDoors.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\rightDoors.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\leftDoorsOpen.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\rightDoorsOpen.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\moveShield.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\asteroidSpawnStart151.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\asteroidSpawnStart150.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\shieldSpawn.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\finishGame.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\bloodScript.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\asteroidControll.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\shipControll.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\boomScript.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\manControll.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\gameMenu.cs" Line="217" Column="5" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
